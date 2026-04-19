@@ -2,7 +2,7 @@
 
 # Ruirui (Ray) Sun
 
-I'm currently a Staff Data Analyst, working on my AI Engineering skills. I have a PhD in Economics and 10 years' combined industry experience in FinTech and Healthcare.
+Staff Data Analyst -> AI Engineer
 
 ## Featured Project
 **[Analyst AI Agent](https://github.com/rsun1/Analyst-AI-Agent)** — Text-to-SQL agent with LLM-as-judge eval harness  
