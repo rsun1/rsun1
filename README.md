@@ -5,12 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Ruirui (Ray) Sun
+
+I'm currently a Staff Data Analyst, working on my AI Engineering skills. I have a PhD in Economics and 10 years' combined industry experience in FinTech and Healthcare.
+
+## Featured Project
+**[Analyst AI Agent](https://github.com/rsun1/Analyst-AI-Agent)** — Text-to-SQL agent with LLM-as-judge eval harness  
+Factual accuracy: 27.8% → 70.6% across 3 documented iterations  
+Stack: OpenAI, RAG (from scratch), SQLite, Python
+
+## Currently Building
+- Anomaly Explainer Agent (automated KPI root cause analysis)
+
+## Background
+PhD Economics | Fintech & Healthcare | AI Systems
