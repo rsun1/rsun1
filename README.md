@@ -1,6 +1,6 @@
 ## Hi there 👋 I am:
 
-# Ruirui (Ray) Sun
+# Ruirui (Rita) Sun
 
 Staff Data Analyst -> AI Engineer
 
