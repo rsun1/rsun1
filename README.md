@@ -4,13 +4,14 @@
 
 Staff Data Analyst/Scientist -> AI Engineer
 
+Economics PhD, 10+ years in data analysis and consulting. Building AI-native tools to deliver insights faster and drive business decisions.
+
 ## Featured Project
 **[Analyst AI Agent](https://github.com/rsun1/Analyst-AI-Agent)** — Text-to-SQL agent with LLM-as-judge eval harness  
 Factual accuracy: 27.8% → 70.6% across 3 documented iterations  
 Stack: OpenAI, RAG (from scratch), SQLite, Python
 
-## Currently Building
-- Anomaly Explainer Agent (automated KPI root cause analysis)
+**[Anomaly Explainer Agent (automated KPI root cause analysis)]**
 
 ## Background
 PhD Economics | Fintech & Healthcare | AI Systems
