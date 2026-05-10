@@ -2,7 +2,7 @@
 
 # Ruirui Sun, PhD (economics)
 
-**AI Engineer & Analyst** — building LLM-powered data systems
+**Applied AI & Analyst** — building LLM-powered data systems
 
 Economics PhD, 10+ years in data analysis and consulting. Building AI-native tools to deliver insights faster and drive business decisions.
 I enjoy analysis, building projects and strategic planning for teams and organizations.
