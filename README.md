@@ -1,8 +1,8 @@
 ## Hi there 👋 I am:
 
-# Ruirui (Rita) Sun
+# Ruirui Sun, PhD (economics)
 
-Staff Data Analyst -> AI Engineer
+Staff Data Analyst/Scientist -> AI Engineer
 
 ## Featured Project
 **[Analyst AI Agent](https://github.com/rsun1/Analyst-AI-Agent)** — Text-to-SQL agent with LLM-as-judge eval harness  
