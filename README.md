@@ -15,4 +15,4 @@ Stack: OpenAI, RAG (from scratch), SQLite, Python
 Building out eval harness (first hurdle is model fitness)
 
 ## Hobbies:
-Dogs | Hiking | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/250px-FC_Barcelona_%28crest%29.svg.png" width="30" alt="FC Barcelona"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1280px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png" width="30" alt="FC Bayern">
+Travel | Dogs | Hiking | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/250px-FC_Barcelona_%28crest%29.svg.png" width="30" alt="FC Barcelona"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1280px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png" width="30" alt="FC Bayern">
